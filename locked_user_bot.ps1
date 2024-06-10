@@ -1,7 +1,7 @@
 <#	
 	.NOTES
-      Filename:      locked_user_bot.ps1
-      Prerequisites: PowerShell 7+
+          Filename:      locked_user_bot.ps1
+          Prerequisites: PowerShell 7+
 	.DESCRIPTION
 	  Alert techs on users locked out and allow them to unlock remotely.
 #>
